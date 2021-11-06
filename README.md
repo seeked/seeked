@@ -12,4 +12,8 @@ class seeked:
             "Javascript":  "Learning",
             "Frontend": "Easy."
         }
+        self.projects = {
+            "Alone": "Multi-purpose discord bot in discord.py"
+            "Bloat": "Defloater for windows 10 in python"
+        }
 ```
