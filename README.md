@@ -13,7 +13,7 @@ class seeked:
             "Frontend": "Easy."
         }
         self.projects = {
-            "Alone": "Multi-purpose discord bot in discord.py"
+            "Alone": "Multi-purpose discord bot in discord.py, going to be open-source"
             "Bloat": "Defloater for windows 10 in python"
         }
 ```
