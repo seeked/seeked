@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**seeked/seeked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+class seeked:
+    def __init__(self):
+        self.username = "seeked"
+        self.age = 13
+        self.aliases = ["cdn"]
+        self.contacts = {
+            "Discord":  "seeked#0001",
+        }
+        self.languages = {
+            "Python":   "Most fluent, can make basically anything.",
+            "Javascript":  "Learning",
+            "Frontend": "Easy."
+        }
+```
